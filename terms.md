@@ -33,7 +33,7 @@ We do not offer refunds beyond what is provided by Apple's standard refund polic
 
 ## 4. User Data
 
-All data you enter in TutorAid is stored locally on your device. You are responsible for maintaining backups of your data. We are not liable for any data loss resulting from device failure, app deletion, or any other cause.
+All data you enter in TutorAid is stored locally on your device. If you are signed in to iCloud, your data may be synced across your devices via Apple's iCloud service. You are responsible for maintaining backups of your data. We are not liable for any data loss resulting from device failure, app deletion, iCloud sync issues, or any other cause.
 
 ---
 
