@@ -1,7 +1,5 @@
 ---
 title: 隐私政策 | TutorAid
-layout: default
-nav_exclude: true
 ---
 
 # 隐私政策
