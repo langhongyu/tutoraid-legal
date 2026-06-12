@@ -17,7 +17,7 @@ The data you enter in the app (student names, lesson records, income statistics,
 ## 2. Data Storage
 
 All app data is stored locally on your device using Apple's SwiftData framework. If you are signed in to iCloud, your data may be synced across your devices via Apple's iCloud service (CloudKit). This sync is handled entirely by Apple, and we have no access to your data at any time.
-For information about how Apple handles your iCloud data, please refer to Apple's Privacy Policy.
+For information about how Apple handles your iCloud data, please refer to Apple's Privacy Policy(https://www.apple.com/legal/privacy/).
 
 ---
 
