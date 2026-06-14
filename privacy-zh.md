@@ -6,7 +6,7 @@ title: 隐私政策 | TutorAid
 
 **TutorAid**（以下简称"我们"）致力于保护您的隐私。本隐私政策说明您在使用 TutorAid 时我们如何处理您的信息。
 
-**最后更新：2026年3月**
+**最后更新：2026年6月**
 
 ---
 
@@ -20,9 +20,9 @@ TutorAid 将所有数据**仅存储在您的设备本地**。我们不会在服�
 
 ## 2. 数据存储
 
-所有应用数据通过 Apple 的 SwiftData 框架存储在您的设备本地。如果您已登录 iCloud，您的数据可能通过 Apple 的 iCloud 服务（CloudKit）在您的设备间同步。此同步完全由 Apple 处理，我们在任何时候均无法访问您的数据。
-
-有关 Apple 如何处理您的 iCloud 数据，请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。
+所有应用数据通过 Apple 的 SwiftData 框架存储在您的设备本地，并可通过 Apple 的 iCloud 服务（CloudKit）在您的设备间同步。
+您在应用中上传的教学材料文件（如 PDF、Word 文档等）存储在您的 iCloud 私有容器中，由 Apple 负责加密和同步。我们在任何时候均无法访问您的数据或文件内容。
+有关 Apple 如何处理您的 iCloud 数据，请参阅 Apple 隐私政策。
 
 ---
 
