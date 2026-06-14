@@ -24,7 +24,7 @@ TutorAid 不会收集、传输或存储任何个人数据至我们自己的服�
 
 您在应用中上传的教学材料文件（如 PDF、Word 文档等）存储在您的 iCloud 私有容器中，由 Apple 负责加密和同步。我们在任何时候均无法访问您的数据或文件内容。
 
-有关 Apple 如何处理您的 iCloud 数据，请参阅 Apple 隐私政策。
+有关 Apple 如何处理您的 iCloud 数据，请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。
 
 ---
 
