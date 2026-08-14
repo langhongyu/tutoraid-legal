@@ -2,7 +2,7 @@
 
 **TutorAid** is developed and maintained by Lang Hongyu. By downloading or using TutorAid, you agree to these Terms of Use.
 
-**Last updated: March 2026**
+**Last updated: August 2026**
 
 ---
 
@@ -20,10 +20,10 @@ TutorAid grants you a personal, non-transferable, non-exclusive license to use t
 
 ## 3. Subscriptions
 
-TutorAid offers a free tier and a paid Pro subscription.
+TutorAid offers a free tier and a paid Personal subscription.
 
-- **Free tier**: Up to 5 students, full access to all features.
-- **Pro subscription**: Unlimited students, billed monthly or yearly through Apple's App Store.
+- **Free tier:** Up to 5 students, full access to all features in the current version.
+- **Personal subscription:** Unlimited students, billed monthly or yearly through Apple's App Store.
 
 Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription in your Apple ID account settings.
 
@@ -33,16 +33,17 @@ We do not offer refunds beyond what is provided by Apple's standard refund polic
 
 ## 4. User Data
 
-All data you enter in TutorAid is stored locally on your device. If you are signed in to iCloud, your data may be synced across your devices via Apple's iCloud service. You are responsible for maintaining backups of your data. We are not liable for any data loss resulting from device failure, app deletion, iCloud sync issues, or any other cause.
+All data you enter in TutorAid is stored on your device and synced to your personal iCloud account (CloudKit private database). You are responsible for maintaining backups of your data. We are not liable for any data loss resulting from device failure, app deletion, iCloud sync issues, or any other cause.
+
+Teaching material files you import are stored in your iCloud container and are accessible only within TutorAid.
+
+Users are solely responsible for the legality of all content they upload and store in the app (including files and materials). Lang Hongyu does not review user content and assumes no responsibility for the copyright compliance of user content.
 
 ---
 
 ## 5. Prohibited Use
 
-You may not:
-- Reverse engineer, decompile, or disassemble the app
-- Use the app for any unlawful purpose
-- Attempt to gain unauthorized access to any part of the app
+You may not: reverse engineer, decompile, or disassemble the app; use the app for any unlawful purpose; or attempt to gain unauthorized access to any part of the app.
 
 ---
 
@@ -68,8 +69,6 @@ We may update these Terms of Use at any time. Continued use of the app after cha
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: henry.hongyu.lang@gmail.com
+Email: henry.hongyu.lang@gmail.com
 
----
-
-*TutorAid is developed by Lang Hongyu.*
+TutorAid is developed by Lang Hongyu.

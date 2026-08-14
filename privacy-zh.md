@@ -4,9 +4,9 @@ title: 隐私政策 | TutorAid
 
 # 隐私政策
 
-**TutorAid**（以下简称"我们"）致力于保护您的隐私。本隐私政策说明您在使用 TutorAid 时我们如何处理您的信息。
+**TutorAid**（以下简称「我们」）致力于保护您的隐私。本隐私政策说明您在使用 TutorAid 时我们如何处理您的信息。
 
-**最后更新：2026年6月**
+**最后更新：2026年8月**
 
 ---
 
@@ -14,15 +14,15 @@ title: 隐私政策 | TutorAid
 
 TutorAid 不会收集、传输或存储任何个人数据至我们自己的服务器。
 
-您在应用中输入的数据（学生姓名、课程记录、收入数据、教学材料文件等）存储在您的设备本地，并可通过 Apple 的 iCloud 服务在您的设备间同步。这些数据仅在您与 Apple 之间流转，不会与我们或任何其他第三方共享。
+您在应用中输入的数据（学生姓名、课程记录、收入数据、教学材料等）仅用于在您自己的设备间同步，不会与我们或任何第三方共享。
 
 ---
 
 ## 2. 数据存储
 
-所有应用数据通过 Apple 的 SwiftData 框架存储在您的设备本地，并可通过 Apple 的 iCloud 服务（CloudKit）在您的设备间同步。
+您在 TutorAid 中输入的数据（学生、课程记录、资料结构、标签、版本等）通过 Apple 的 SwiftData 框架存储，并同步到您个人的 iCloud 账户（CloudKit 私有数据库）。此同步完全由 Apple 处理，我们无法访问您的数据。
 
-您在应用中上传的教学材料文件（如 PDF、Word 文档等）存储在您的 iCloud 私有容器中，由 Apple 负责加密和同步。我们在任何时候均无法访问您的数据或文件内容。
+您导入的教学材料文件存储在您的 iCloud 容器中，用于在您的设备间同步；这些文件不会出现在系统的「文件」App 中，仅 TutorAid 内部可访问。
 
 有关 Apple 如何处理您的 iCloud 数据，请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。
 
@@ -31,8 +31,6 @@ TutorAid 不会收集、传输或存储任何个人数据至我们自己的服�
 ## 3. 购买与订阅
 
 TutorAid 通过 Apple App Store 提供可选的付费订阅。所有购买交易完全由 Apple 处理。我们不会收集或存储您的支付信息。
-
-有关 Apple 如何处理您的购买数据，请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。
 
 ---
 
@@ -44,7 +42,7 @@ TutorAid 不使用任何第三方分析、追踪或广告 SDK。我们不追踪�
 
 ## 5. 儿童隐私
 
-TutorAid 不面向13岁以下的儿童。我们不会故意收集儿童的个人信息。
+TutorAid 不面向 13 岁以下的儿童。我们不会故意收集儿童的个人信息。
 
 ---
 
@@ -58,8 +56,6 @@ TutorAid 不面向13岁以下的儿童。我们不会故意收集儿童的个人
 
 如您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
-**电子邮件**：henry.hongyu.lang@gmail.com
+电子邮件：henry.hongyu.lang@gmail.com
 
----
-
-*TutorAid 由 Lang Hongyu 开发。*
+TutorAid 由 Lang Hongyu 开发。
